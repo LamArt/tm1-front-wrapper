@@ -1,0 +1,26 @@
+{
+  "name": "tm1-front-wrapper",
+  "version": "1.0.0",
+  "description": "tm1 wrapper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git + https://github.com/LamArt/tm1-front-wrapper"
+  },
+  "keywords": [
+    "tm1",
+    "wrapper",
+    "front-end",
+    "odata",
+    "rest"
+  ],
+  "bugs": {
+    "url": "https://github.com/LamArt/tm1-front-wrapper/issues"
+  },
+  "homepage": "https://github.com/LamArt/tm1-front-wrapper#readme",
+  "author": "inbox@lamart.site",
+  "license": "ISC"
+}
